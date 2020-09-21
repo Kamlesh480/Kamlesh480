@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning practices for ML.
-- 👯 I’m looking to collaborate on any AI or Web Development project.
 - 📫 How to reach me: LinkdIN: linkedin.com/in/kamlesh-chhipa-6b3a08194
 - 🤔 I’m looking for help with computer vision project.
 <!--
