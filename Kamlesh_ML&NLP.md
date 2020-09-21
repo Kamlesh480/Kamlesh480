@@ -1,4 +1,3 @@
-
 # Machine Learning & Deep Learning Topics
 
 - Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks)
